@@ -26,7 +26,7 @@ What feature can you add to this repository ?
 - etc. 
 
 ## How to sign up?
-bijour
+Inshallah le t shirt
 https://hacktoberfest.digitalocean.com
 
 
